@@ -1,0 +1,37 @@
+{
+    "böcker":[
+        {
+            "id":1,
+            "titel": "Det förlorade riket",
+            "författare": "Erik Petterson",
+            "utgivningsår": 2007,
+            "genre": "Fantasy"
+        },
+        {
+            "id":2,
+            "titel": "I skuggan av barnen",
+            "författare": "Lena Petterson",
+            "utgivningsår": 2018,
+            "genre": "Deckare"
+        },
+        {
+            "id":3,
+            "titel": "Gåtan",
+            "författare": "Ola Norman",
+            "utgivningsår": 2025,
+            "genre": "Barn"
+        }
+    ],
+    "cdskivor": [
+        {
+            "id":1,
+            "cdnamn": "Skifix",
+            "genre": "Pop"
+        },
+        {
+            "id":2,
+            "cdnamn": "Varning för barn",
+            "genre": "Vuxenvisor"
+        }
+    ]
+}
