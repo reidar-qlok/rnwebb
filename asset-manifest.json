@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/rnwebb/static/css/main.5423182a.css",
+    "main.js": "/rnwebb/static/js/main.a40008f9.js",
+    "static/js/453.96e6bffa.chunk.js": "/rnwebb/static/js/453.96e6bffa.chunk.js",
+    "static/media/lofot.jpg": "/rnwebb/static/media/lofot.544c59419021b869c232.jpg",
+    "static/media/mail22.jpg": "/rnwebb/static/media/mail22.44facdeaa5b21188065c.jpg",
+    "index.html": "/rnwebb/index.html",
+    "main.5423182a.css.map": "/rnwebb/static/css/main.5423182a.css.map",
+    "main.a40008f9.js.map": "/rnwebb/static/js/main.a40008f9.js.map",
+    "453.96e6bffa.chunk.js.map": "/rnwebb/static/js/453.96e6bffa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5423182a.css",
+    "static/js/main.a40008f9.js"
+  ]
+}
